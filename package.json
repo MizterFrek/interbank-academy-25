@@ -1,0 +1,14 @@
+{
+  "name": "interbank-academy-25",
+  "version": "1.0.0",
+  "description": "Reto tecnico IBK",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "MizterFrek",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0"
+  }
+}
